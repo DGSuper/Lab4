@@ -1,0 +1,35 @@
+.item {
+    display: inline-block;
+    text-align: center;
+    margin: 0 auto;
+}
+
+img {
+    width: 250px;
+    background-repeat: no-repeat;
+}
+
+body {
+    margin: 0 auto;
+    max-width: 1000px;
+}
+
+#container {
+    text-align: center;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+.g {
+    text-align: center;
+}
+
+.b {
+    text-align: right;
+}
